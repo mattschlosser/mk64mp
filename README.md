@@ -18,7 +18,7 @@ Todo:
 Extras:  
 - Possibly balance kart stats
 
-This repo contains a work-in-progress decompilation of Mario Kart 64 (U). The project pursues historical and educational elements found within the game via taking it apart and putting it back together. Inspiration to do so not only emanates from the game's hardware and technology but also its immensely positive effects on the cultures and families of nearly every nationality. See [progress](#Progress) for more information.
+A potential future multiplayer mod for mk64. Note: Work on this project has not yet begun.
 
 It builds the following ROM:
 
